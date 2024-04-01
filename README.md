@@ -44,3 +44,5 @@ The Weather Forecast App integrates with a weather API to retrieve weather data.
 ![Handling Location Input](handle_location_input.gif)
 ## Conclusion
 The Weather Forecast App offers a convenient way for users to access up-to-date weather information for their location. By leveraging HTML, CSS, and JavaScript, the app provides an intuitive and visually appealing interface, making it easy for users to check the current weather conditions and plan ahead with the 5-day forecast. Whether you're a beginner exploring web development or an experienced developer seeking a new project challenge, this app offers an exciting opportunity to apply your skills and create a valuable tool for users.
+![Screenshot (85)](https://github.com/DeviSanjana8405/Weather-forecast-COD5915/assets/147242683/73eaa230-fded-40c7-ba3f-97be8f59f6e4)
+
